@@ -23,7 +23,7 @@
     display: grid;
     grid-template-columns: 1fr;
     justify-content: start;
-
+    margin: 0;
     width: 100%;
   }
   .grid-price {
